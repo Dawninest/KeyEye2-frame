@@ -267,7 +267,6 @@
 				TargetAttributes = {
 					C54E904C1CF979940081C09C = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = Z6PY763ZB6;
 					};
 					C54E90651CF979940081C09C = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -480,6 +479,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = KeyEye2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Dawninest.KeyEye2;
@@ -491,6 +491,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = KeyEye2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Dawninest.KeyEye2;
@@ -563,6 +564,7 @@
 				C54E907C1CF979940081C09C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C54E907D1CF979940081C09C /* Build configuration list for PBXNativeTarget "KeyEye2Tests" */ = {
 			isa = XCConfigurationList;
@@ -571,6 +573,7 @@
 				C54E907F1CF979940081C09C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C54E90801CF979940081C09C /* Build configuration list for PBXNativeTarget "KeyEye2UITests" */ = {
 			isa = XCConfigurationList;
@@ -579,6 +582,7 @@
 				C54E90821CF979940081C09C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
